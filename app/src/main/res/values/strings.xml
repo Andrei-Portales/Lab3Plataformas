@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="titulo">CoronaVirus</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="nombreHint">nombre</string>
+    <string name="btnvirus">Virus</string>
+    <string name="btnsintomas">Sintomas</string>
+    <string name="btnIndicaciones">Indicaciones</string>
+
+    <string name="infoEdad">
+
+        Los datos estadísticos aportados por los investigadores chinos del Equipo
+        Epidemiológico de Respuesta de Emergencia a la Neumonía del Nuevo Coronavirus,
+        tras analizar más de 70.000 pacientes afectados, apuntan que el 81% de los casos
+        son leves, el 13,8% son graves y un exiguo 4,7% son críticos. A este último grupo p
+        ertenecen los mayores de 80 años, en los que el virus alcanza un 14,8% de mortalidad. E
+        stas son las tasas por grupos de edad:\n\n
+
+        En los afectados de entre 10 y 49 años se ha registrado un índice de mortalidad de entre el 0,2%
+        y 0,4%. Solo hay tasas superiores al 1% en las personas que mayores de 50 años. Se eleva al
+        3,6% en las personas de entre 60 y 69 años y hasta el 8% en edades comprendidas entre los 70
+        y los 79 años. Hasta el momento, los niños parecen estar a salvo de los efectos más graves ya
+        que ninguno ha fallecido a causa del virus.\n\n
+
+        MÁS HOMBRES QUE MUJERES\n\n
+
+        Este seguimiento muestra que en los grupos más jóvenes la mortalidad del virus es el doble
+        que la de una gripe común, que ha causado la muerte a más hombres que mujeres (un 2,8% frente
+        a un 1,7%), y que afecta especialmente a las personas con enfermedades previas, sobre todo de
+        tipo cardiovascular (un 10% de la mortalidad), diabetes (un 7,3% de mortalidad) y afecciones
+        respiratorias crónicas (un 6,3%).\n\n
+
+        Si analizamos los datos en conjunto, todo ello resulta en una mortalidad general del 2,3%, una
+        cifra que se alinea con los datos que ya se venían manejando. No obstante, La Organización Mundial
+        de la Salud (OMS) ha informado que esa tasa de mortalidad se corresponde más con la realidad de Wuhan
+        que con la del resto del mundo, donde el índice se queda en un 0,7%.
+
+
+    </string>
+</resources>
